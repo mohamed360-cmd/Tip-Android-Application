@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tippy</string>
+    <string-array name="countries">
+        <item>KSH</item>
+        <item>USD</item>
+    </string-array>
+</resources>
